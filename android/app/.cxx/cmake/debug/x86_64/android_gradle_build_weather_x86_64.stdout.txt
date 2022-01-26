@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\Muhammad Saddam Nur\Documents\experiment_project\ffi_explore\android\app\.cxx\cmake\debug\x86_64'
+[1/2] Building C object CMakeFiles/weather.dir/C_/Users/Muhammad_Saddam_Nur/Documents/experiment_project/ffi_explore/src/weather.c.o
+[2/2] Linking C shared library "C:\Users\Muhammad Saddam Nur\Documents\experiment_project\ffi_explore\build\app\intermediates\cmake\debug\obj\x86_64\libweather.so"

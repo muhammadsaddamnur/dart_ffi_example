@@ -1,0 +1,5 @@
+# ninja log v5
+0	103	664919560	CMakeFiles/weather.dir/C_/Users/Muhammad_Saddam_Nur/Documents/experiment_project/ffi_explore/src/weather.c.o	71c34db2f676211c
+103	199	664919560	C:/Users/Muhammad Saddam Nur/Documents/experiment_project/ffi_explore/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libweather.so	e5acbdb0d7fac47b
+1	291	664920631	CMakeFiles/weather.dir/C_/Users/Muhammad_Saddam_Nur/Documents/experiment_project/ffi_explore/src/weather.c.o	71c34db2f676211c
+292	418	664920631	C:/Users/Muhammad Saddam Nur/Documents/experiment_project/ffi_explore/build/app/intermediates/cmake/debug/obj/armeabi-v7a/libweather.so	e5acbdb0d7fac47b

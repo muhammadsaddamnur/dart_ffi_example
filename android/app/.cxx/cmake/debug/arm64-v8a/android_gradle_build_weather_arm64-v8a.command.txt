@@ -1,0 +1,9 @@
+Executable : C:\Users\Muhammad
+arguments : 
+Saddam
+Nur\AppData\Local\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+-C
+C:\Users\Muhammad Saddam Nur\Documents\experiment_project\ffi_explore\android\app\.cxx\cmake\debug\arm64-v8a
+weather
+jvmArgs : 
+

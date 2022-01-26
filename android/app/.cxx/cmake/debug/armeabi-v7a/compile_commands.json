@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Muhammad Saddam Nur/Documents/experiment_project/ffi_explore/android/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "C:\\Users\\MUHAMM~1\\AppData\\Local\\Android\\Sdk\\ndk\\211~1.635\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=\"C:/Users/Muhammad Saddam Nur/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"C:/Users/Muhammad Saddam Nur/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot\" -Dweather_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\weather.dir\\C_\\Users\\Muhammad_Saddam_Nur\\Documents\\experiment_project\\ffi_explore\\src\\weather.c.o   -c \"C:\\Users\\Muhammad Saddam Nur\\Documents\\experiment_project\\ffi_explore\\src\\weather.c\"",
+  "file": "C:\\Users\\Muhammad Saddam Nur\\Documents\\experiment_project\\ffi_explore\\src\\weather.c"
+}
+]

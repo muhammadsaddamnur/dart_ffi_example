@@ -1,0 +1,3 @@
+C:/Users/Muhammad Saddam Nur/Documents/experiment_project/ffi_explore/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/weather.dir
+C:/Users/Muhammad Saddam Nur/Documents/experiment_project/ffi_explore/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Muhammad Saddam Nur/Documents/experiment_project/ffi_explore/android/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

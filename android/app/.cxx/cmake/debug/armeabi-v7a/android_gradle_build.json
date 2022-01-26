@@ -1,0 +1,43 @@
+{
+  "stringTable": {
+    "0": "C:/Users/Muhammad Saddam Nur/Documents/experiment_project/ffi_explore/android/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=\"C:/Users/Muhammad Saddam Nur/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"C:/Users/Muhammad Saddam Nur/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot\" -Dweather_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\Muhammad Saddam Nur\\Documents\\experiment_project\\ffi_explore\\android\\app\\CMakeLists.txt",
+    "C:\\Users\\Muhammad Saddam Nur\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Muhammad Saddam Nur\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Muhammad Saddam Nur\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Muhammad Saddam Nur\\Documents\\experiment_project\\ffi_explore\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Muhammad Saddam Nur\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\Muhammad Saddam Nur\\Documents\\experiment_project\\ffi_explore\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "weather-Debug-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\Muhammad Saddam Nur\\AppData\\Local\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Muhammad Saddam Nur\\Documents\\experiment_project\\ffi_explore\\android\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" weather",
+      "buildType": "debug",
+      "toolchain": "2097869147",
+      "abi": "armeabi-v7a",
+      "artifactName": "weather",
+      "files": [
+        {
+          "src": "C:\\Users\\Muhammad Saddam Nur\\Documents\\experiment_project\\ffi_explore\\src\\weather.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\Muhammad Saddam Nur\\Documents\\experiment_project\\ffi_explore\\build\\app\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libweather.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "2097869147": {
+      "cCompilerExecutable": "C:\\Users\\MUHAMM~1\\AppData\\Local\\Android\\Sdk\\ndk\\211~1.635\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
